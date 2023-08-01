@@ -1,0 +1,125 @@
+.homePageContainer {
+  padding-block-end: 8rem;
+  .bannerContainer {
+    margin-block-start: 8.2rem;
+    padding-inline: 2rem;
+    .bannerInnerRow {
+      align-items: center;
+      .bannerContent {
+        h2 {
+          font-weight: 900;
+          font-size: 5rem;
+          line-height: 7.5rem;
+          color: var(--primaryColor);
+        }
+        p {
+          font-weight: 400;
+          font-size: 2rem;
+          line-height: 4rem;
+          margin-block: 4.5rem;
+        }
+      }
+    }
+  }
+  .secondSection {
+    display: inline-flex;
+    max-width: 50%;
+    gap: 4rem;
+    .stepContent {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      gap: 1rem;
+      margin-block-start: 2.8rem;
+      p:first-child {
+        font-size: 2.2rem;
+        color: var(--primaryColor);
+        font-weight: 500;
+        border: 0.2rem solid var(--borderColor);
+        border-radius: 50%;
+        padding: 0.5rem 1.4rem;
+        text-align: center;
+      }
+      p:last-child {
+        font-size: 2rem;
+        line-height: 3.5rem;
+        color: var(--secondaryColor);
+      }
+    }
+    .secondColOne {
+      position: relative;
+    }
+    .secondColOne:after {
+      content: "";
+      width: 17rem;
+      border-block-start: 2px dashed var(--greyColor);
+      position: absolute;
+      top: 2rem;
+      right: 0;
+    }
+  }
+  .thirdSection {
+    h3 {
+        color: var(--primaryColor);
+        font-weight: 900;
+        font-size: 3rem;
+        margin-block-end: 4.3rem;
+    }
+    h4 {
+        color: var(--secondaryColor);
+        font-weight: 700;
+        font-size: 2rem;
+        margin-block-end: 3rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .homePageContainer {
+    .bannerContainer {
+      .bannerInnerRow {
+        .bannerContent {
+          h2 {
+            line-height: unset;
+            font-size: 3rem;
+          }
+          p {
+            line-height: unset;
+            font-size: 1.8rem;
+            margin-block: 3.5rem;
+          }
+        }
+      }
+    }
+    .secondSection {
+        max-width: 100%;
+    }
+    .thirdSection {
+      .thirdSectionRow {
+        gap: 4rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .homePageContainer {
+    .bannerContainer {
+      margin-block: 6.2rem;
+      .bannerInnerRow {
+        gap: 2rem;
+      }
+    }
+    .secondSection {
+        flex-direction: column;
+        .secondColOne:after {
+            display: none;
+        }
+    }
+    .thirdSection {
+      .thirdSectionRow {
+        gap: 4rem;
+      }
+    }
+  }
+}

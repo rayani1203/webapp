@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap');
+
+:root {
+  --primaryColor: #1a527a;
+  --secondaryColor: #0d293d;
+  --whiteColor: #fff;
+  --lightPrimaryColor: #eef9ff;
+  --fadedPrimaryColor: #4D85AD;
+  --greyColor: #e9f0f5;
+  --borderColor: #a6c2d6;
+  --barColor: #D3E1EA;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif !important;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+section {
+  padding: 9.5rem 2rem 0;
+}
+
+.selectDropdown__option, .selectDropdown__single-value {
+  div {
+    display: flex;
+    justify-content: flex-start;
+    gap: 1rem;
+    span {
+      color: var(--primaryColor);
+    }
+  }
+}
+
+.selectDropdown__option--is-focused, selectDropdown__option--is-selected {
+  div {
+    span {
+      color: var(--whiteColor);
+    }
+  }
+}
+
+.activeTab {
+  color: var(--primaryColor) !important;
+  text-decoration: underline;
+}
+
+.progress {
+  width: 100% !important;
+  height: 2.5rem !important;
+  background-color: var(--barColor) !important;
+  border-radius: 3.6rem !important;
+  div[role=progressbar] {
+    background-color: var(--borderColor) !important;
+    border-radius: 3.6rem !important;
+    color: var(--secondaryColor);
+    font-size: 1.8rem;
+    font-weight: 500;
+    text-align: right;
+    padding-inline-end: 0.8rem;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  button {
+    padding: 1.2rem 0 !important;
+  }
+  section {
+    padding-block: 6.5rem;
+  }
+}

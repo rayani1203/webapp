@@ -1,0 +1,27 @@
+.menuContainer {
+    position: absolute;
+    width: 100%;
+    max-width: 150px;
+    background: #fff;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 0 0 8px rgb(0 0 0 / 14%);
+    right: 20px;
+    top: 62px;
+    padding: 1rem;
+    ul {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        li {
+            a {
+                font-size: 1.6rem;
+                text-decoration: none;
+                color: var(--primaryColor);
+                font-weight: 700;
+            }
+        }
+    }
+}

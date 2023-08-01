@@ -1,0 +1,28 @@
+{
+  "homePage": {
+    "banner": {
+      "mainHeading": "View School list by GPA/Program of interest",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo"
+    },
+    "secondSection" : {
+      "stepOneContent" : "Enter your GPA and program of interest",
+      "stepTwoContent" : "View your school list based on the likelihood of acceptance"
+    },
+    "thirdSection" : {
+      "sectionTitle" : "Find Schools",
+      "thirdColOneTitle" : "ENTER YOUR HIGH SCHOOL AVERAGE IN %",
+      "thirdColTwoTitle" : "SELECT A PROGRAM",
+      "thirdColThreeTitle" : "ENTER YOUR APPLICATION BUDGET"
+    }
+  },
+  "aboutPage": {
+    "firstSection": {
+      "title": "About the Team",
+      "descriptionOne": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo",
+      "descriptionTwo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commoLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "secondSection": {
+      "sectionTitle": "Our Team"
+    }
+  }
+}

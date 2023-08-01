@@ -1,0 +1,120 @@
+.tabContainer {
+    .tabHeader {
+        margin-block: 4rem;
+        ul {
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: flex-start;
+            gap: 4rem;
+            li {
+                list-style: none;
+                color: var(--greyColor);
+                font-size: 2rem;
+                font-weight: 700;
+                cursor: pointer;
+            }
+        }
+    }
+    .tabContent {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 3rem;
+        .collegeCard {
+            background: var(--greyColor);
+            border-radius: 3rem;
+            padding: 2rem;
+            .collegeInfo {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr);
+                gap: 2rem;
+                .collegeImg {
+                    img {
+                        max-width: 30.5rem;
+                        aspect-ratio: 1;
+                        object-fit: cover;
+                        border-radius: 2rem;
+                    }
+                }
+                .collegeAbout {
+                    .collegeName {
+                        padding-block-end: 1.9rem;
+                        margin-block-end: 1.9rem;
+                        border-bottom: 1px solid var(--borderColor);
+                        h2 {
+                            color: var(--primaryColor);
+                            font-size: 2rem;
+                            margin: 0;
+                            font-weight: 500;
+                        }
+                        p {
+                            color: var(--primaryColor);
+                            font-size: 1.8rem;
+                            font-weight: 300;
+                            margin: 0;
+                        }
+                    }
+                    .collegeFee {
+                        margin-block-end: 1.8rem;
+                        p, h4 {
+                            margin: 0;
+                            color: var(--secondaryColor);
+                        }
+                        p {
+                            font-size: 1.9rem;
+                            font-weight: 300;
+                        }
+                        h4 {
+                            font-size: 1.8rem;
+                            font-weight: 500;
+                        }
+                    }
+                    .detailsBtn {
+                        display: grid;
+                        grid-template-columns: 2fr 1fr;
+                        gap: 2rem;
+                        margin-block-start: 4.5rem;
+                    }
+                }
+            }
+            .progressContainer {
+                margin-block-start: 2rem;
+                display: flex;
+                flex-direction: column;
+                gap: 1.1rem;
+                .progressBlock {
+                    display: flex;
+                    justify-content: flex-start;
+                    gap: 2rem;
+                    align-items: center;
+                    h3 {
+                        color: var(--secondaryColor);
+                        font-size: 1.8rem;
+                        margin: 0;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .tabContainer {
+        .tabContent {
+            grid-template-columns: 1fr;
+        }
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .tabContainer {
+        .tabContent {
+            grid-template-columns: 1fr;
+            .collegeCard {
+                .collegeInfo {
+                    grid-template-columns: 1fr;
+                }
+            }
+        }
+    }
+}

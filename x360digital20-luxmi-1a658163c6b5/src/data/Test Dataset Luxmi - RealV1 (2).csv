@@ -1,0 +1,410 @@
+University,Major,Average,Location,Price,Date,Program Link,Application Link
+UCalgary,Accounting,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/accounting,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Actuarial Science,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/actuarial-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Medieval Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/ancient-medieval-history,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Anthropology,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/anthropology-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Archaeology,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/archaeology-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Art History,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/art-history,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Astrophysics,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/astrophysics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Biochemistry,95,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/biochemistry,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Bionformatics,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/bioinformatics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Biology,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/biological-sciences,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Biomechanics,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/biomechanics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Biomedical Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/biomedical-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Biomedical Sciences,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/biomedical-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Business,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/business,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Business Analytics,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/business-analytics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Business Technology Management,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/business-technology-management,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Microbiology,95,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/cellular-molecular-microbial-biology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Chemical Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/chemical-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Chemistry,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/chemistry,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Civil Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/civil-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Media Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/communication-media-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Community Rehabilitation,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/community-rehabilitation,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Computer Science,93,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/computer-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Dance,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/dance,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Design in City Innovation,90,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/design-city-innovation,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Drama,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/drama,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Asian Language Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/east-asian-language-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Economics,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/economics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Electrical Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/electrical-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Energy and Professional Land Management,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/energy-petroleum-land-management,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Energy Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/energy-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,English,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/english,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Entrepreneurship,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/entrepreneurship-innovation,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Environmental Science,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/environmental-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Excercise and Health Physiology,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/exercise-health-physiology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Film Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/film-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Finance,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/finance,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,French,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/french,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Gender Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/gender-sexuality-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Geography,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geography-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Geology,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Geomatics Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geomatics-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Geophysics,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/geophysics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Global Development,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/global-development-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Greek and Roman Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/greek-roman-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Health and Society,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/health-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,History,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/history,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,International Business Strategy,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/international-business-strategy,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Indigenous Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/international-indigenous-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,International Relations,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/international-relations,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Kinesiology,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/kinesiology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Language and Culture,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/language-culture,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Latin American Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/latin-american-sudies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Legal Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/law-society,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Coaching,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/leadership-coaching,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Linguistics,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/linguistics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Marketing,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/marketing,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Mathematics,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/mathematics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Mechanical Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/mechanical-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Music,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/music-music,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Natural Sciences,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/natural-sciences,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Neuroscience,95,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/neuroscience,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Nursing,93,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/nursing,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Operations Management,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/operations-management,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Human Resources,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/organizational-behaviour-human-resources,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Philosophy,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/philosophy,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Physics,78,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/physics,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Plant Biology,95,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/plant-biology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Political Science,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/political-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Pyschology,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/psychology-science,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Real Estate Studies,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/real-estate,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Religious Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/religious-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Risk Management,85,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/risk-management-insurance,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Sociology,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/sociology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Software Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/software-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Spanish,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/spanish,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Sustainable Systems Engineering,88,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/sustainable-systems-engineering,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Urban Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/urban-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Visual Studies,75,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/visual-studies,https://www.ucalgary.ca/future-students/undergraduate/apply
+UCalgary,Zoology,95,"Calgary, Alberta",125,March 1,https://www.ucalgary.ca/future-students/undergraduate/explore-programs/zoology,https://www.ucalgary.ca/future-students/undergraduate/apply
+UBC,Accounting,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Business,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Entrepreneurship,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Marketing,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Operations Management,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Human Resources,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Real Estate Studies,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Finance,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Business Technology Management,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,"Global Supply Chain and Logistics Management",91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Business Management,91,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/commerce/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Economics,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/economics-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Archaeology,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/archaeology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Atmospheric Science,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/atmospheric-science/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Earth Sciences,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/earth-ocean-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Environmental Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/engineering-environmental/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Manufacturing Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/manufacturing-engineering-okanagan/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Environmental Science,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/earth-environmental-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Forest Sciences,84,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/forest-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Geography,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/geography/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Geology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/geology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Geophysics,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/geophysics/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Global Resource Systems,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/global-resource-systems/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Natural Resources Conservation,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/natural-resources-conservation/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Oceanography,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/oceanography/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Urban Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/urbanstudies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Architecture,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/architecture/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Biomedical Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/biomedical-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Chemical Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/chemical-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Chemical and Biological Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/chemical-biological-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Civil Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/civil-engineering-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Cognitive Systems,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/cognitive-systems-bsc/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Computer Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/computer-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Computer Science,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/computer-science-vancouver-bsc/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Electrical Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Engineering Physics,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/engineering-physics/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Environmental Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/engineering-environmental/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Geological Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/geological-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Mining Engineering,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/mining-engineering/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Biochemistry,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/biochemistry/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Applied Animal Biology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/applied-animal-biology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Biology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/biology-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Biophysics,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/biophysics/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Biotechnology,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/biotechnology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Physiology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/cellular-anatomical-physiological-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Kinesiology,85,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/kinesiology-multidisciplinary-science/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Microbiology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/microbiology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Neuroscience,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/neuroscience/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Nursing,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/nursing-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Nutritional Sciences,,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/nutritional-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Pharmaceutical Sciences,89,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/pharmaceutical-sciences/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Pharmacology,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/pharmacology/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Psychology,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/psychology-okanagan-bsc/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Asian Language Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/asian-language-culture/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,English,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/english-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,French,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/french-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Linguistics,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/linguistics/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,German,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/german/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,European Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/modern-european-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Romance Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/romance-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Spanish,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/spanish-hispanic-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Astronomy,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/astronomy/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Chemistry,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/chemistry-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Mathematics,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Physics,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/physics-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Statistics,90,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/statistics-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Art History,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/art-history/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Creative Writing,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/creative-writing-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Film Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/film-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Media Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/media-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Music,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/music/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Drama,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/theatre/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Visual Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/visual-art-bfa/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Anthropology,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/anthropology-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Indigenous Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/first-nations-indigenous-studies/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Gender Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/gender-race-sexuality-social-justice/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Latin American Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/latin-american-studies-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Philosophy,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/philosophy-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Religious Studies,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/religion/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Social Work,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/social-work/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UBC,Sociology,88,"Vancouver, BC",74,January 15,https://you.ubc.ca/ubc_programs/sociology-vancouver/,https://ssc.adm.ubc.ca/sscportal/apply.xhtml
+UWaterloo,Accounting,88,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Actuarial Science,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Anthropology,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Applied Mathematics,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Architectural Engineering,90,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Architecture,88,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biochemistry,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biophysics,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biology,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biomedical Engineering,93,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biomedical Sciences,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biostatistics,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Biotechnology,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Chemical Engineering,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Chemistry,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Civil Engineering,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Media Studies,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Computer Engineering,93,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Computer Science,98,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Data Science,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Earth Sciences,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Economics,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Electrical Engineering,94,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Environmental Engineering,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Environmental Science,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,English,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,French,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Gender Studies,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Geography,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Geological Engineering,89,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Geomatics,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,German,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Health Sciences,89,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,History,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,IT Management,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Kinesiology,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Legal Studies,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Management Engineering,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Mathematics,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Mechanical Engineering,92,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Medieval Studies,85,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Music,85,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Nanotechnology Engineering,91,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Philosophy,85,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Physics,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Astrophysics,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Political Science,83,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Psychology,85,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Public Health,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Religious Studies,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Sociology,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Software Engineering,98,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Spanish,86,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+UWaterloo,Statistics,88,"Waterloo, ON",150,February 1,,https://www.ouac.on.ca/
+McGill University,Cognitive Systems,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Life Sciences,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Physiology,98,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Biology,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/applyy
+McGill University,Kinesiology,89,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Nursing,81,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Pharmacology,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Neuroscience,97,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Biochemistry,97,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Microbiology,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Mechanical Engineering,98,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Bioengineering,97,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Chemical Engineering,94,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Civil Engineering,94,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Computer Engineering,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Electrical Engineering,97,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Materials Engineering,90,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Mining Engineering,90,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Software Engineering,98,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Architecture,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Computer Science,98,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Mathematics,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Statistics,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Physics,98,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Geography,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Earth Sciences,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Atmospheric Science,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Psychology,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Geology,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Environmental Science,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Chemistry,95,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,International Business Strategy,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Marketing,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Finance,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,IT Management,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Economics,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Accounting,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Human Resources,96,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,East Asian Studies,91,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+McGill University,Religious Studies,91,"Montreal, QC",80,January 15,,https://www.mcgill.ca/undergraduate-admissions/apply
+Western University,Biology,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Chemistry,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Computer Science,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Environmental Science,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Nutritional Sciences,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Mathematics,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Physics,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Astronomy,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Actuarial Science,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Statistics,85,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/science.html,
+Western University,Biochemistry,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Epidemiology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Biophysics,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Cell Biology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Microbiology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Neuroscience,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Pathology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Physiology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Pharmacology,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/medical-sciences.html,
+Western University,Classical Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,English,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Film Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,French,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Gender Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Language and Culture,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Linguistics,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Medieval Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Philosophy,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Drama,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Visual Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,Creative Writing,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/arts-humanities.html,
+Western University,AI Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Biomedical Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Chemical Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Civil Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Electrical Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Mechanical Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Mechatronic Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Software Engineering,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/engineering.html,
+Western University,Health Sciences,93,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/health-sciences.html,
+Western University,Kinesiology,88,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/kinesiology.html,
+Western University,Nursing,91,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/nursing.html,
+Western University,Media Studies,83,"London, ON",150,March 1,https://welcome.uwo.ca/what-can-i-study/undergraduate-programs/nursing.html,
+Western University,Anthropology,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Economics,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Geography,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,History,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Indigenous Studies,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Political Science,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Psychology,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Sociology,85,"London, ON",150,March 1,"Social Science | Western University | London, Ontario, Canada (uwo.ca)",
+Western University,Commerce,94,"London, ON",150,March 1,"Ivey Business Administration (HBA) | Western University | London, Ontario, Canada (uwo.ca)",
+McMaster University,Accounting,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Finance,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Human Resources,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Information Systems,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Marketing,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Operations Management,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,International Business Strategy,88,"Hamilton, ON",110,April 1,Business - Future Students - McMaster University,
+McMaster University,Computer Science,92,"Hamilton, ON",110,April 1,Computer Science - Future Students - McMaster University,
+McMaster University,Economics,83,"Hamilton, ON",110,April 1,Economics I - Future Students - McMaster University,
+McMaster University,Environmental Science,83,"Hamilton, ON",110,April 1,Environmental & Earth Sciences Gateway - Future Students - McMaster University,
+McMaster University,Health and Society,83,"Hamilton, ON",110,April 1,Health and Society I - Future Students - McMaster University,
+McMaster University,Health Sciences,95,"Hamilton, ON",110,April 1,Health Sciences (BHSc Honours) - Future Students - McMaster University,
+McMaster University,Kinesiology,90,"Hamilton, ON",110,April 1,Honours Kinesiology - Future Students - McMaster University,
+McMaster University,Media Studies,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Cognitive Systems,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Classical Studies,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Archaeology,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Classical Studies,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,History,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Linguistics,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Social Justice,77,"Hamilton, ON",110,April 1,Humanities - Future Students - McMaster University,
+McMaster University,Chemical Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Civil Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Bioengineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Computer Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Electrical Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Engineering Physics,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Materials Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Mechanical Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Mechatronic Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Software Engineering,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Engineering Man,89,"Hamilton, ON",110,April 1,Engineering - Future Students - McMaster University,
+McMaster University,Actuarial Science,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Chemistry,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Chemical Biology,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Life Sciences,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Statistics,88,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Mathematics,88,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Biophysics,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Physics,90,"Hamilton, ON",110,April 1,Life Sciences Gateway - Future Students - McMaster University,
+McMaster University,Music,78,"Hamilton, ON",110,April 1,Music - Future Students - McMaster University,
+McMaster University,Anthropology,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Indigenous Studies,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Political Science,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Psychology,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Neuroscience,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Social Work,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Sociology,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Religious Studies,83,"Hamilton, ON",110,April 1,Social Sciences I - Future Students - McMaster University,
+McMaster University,Nursing,88,"Hamilton, ON",110,April 1,Nursing - Future Students - McMaster University,
+Queens University,Accounting,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Advertising,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Business Development,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Finance,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Entrepreneurship,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Human Resources,92,"Kingston, ON",100,February 1,Smith Bachelor of Commerce - Overview (queensu.ca),
+Queens University,Cognitive Systems,85,"Kingston, ON",100,February 1,,
+Queens University,Computer Science,85,"Kingston, ON",100,February 1,,
+Queens University,Drama,83,"Kingston, ON",100,February 1,,
+Queens University,Film Studies,83,"Kingston, ON",100,February 1,,
+Queens University,Music,83,"Kingston, ON",100,February 1,,
+Queens University,Biomedical Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Chemical Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Civil Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Computer Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Electrical Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Engineering Chemistry,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Engineering Physics,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,GeoEngineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Geological Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Statistics,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Mathematics,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Mechanical Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Materials Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Mechatronic Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Mining Engineering,85,"Kingston, ON",100,February 1,Programs (queensu.ca),
+Queens University,Art History,83,"Kingston, ON",100,February 1,Art History | Queen's University (queensu.ca),
+Queens University,Classical Studies,83,"Kingston, ON",100,February 1,https://www.queensu.ca/classics/,
+Queens University,Drama,83,"Kingston, ON",100,February 1,https://sdm.queensu.ca/,
+Queens University,English,83,"Kingston, ON",100,February 1,https://www.queensu.ca/english/,
+Queens University,Film Studies,83,"Kingston, ON",100,February 1,https://www.queensu.ca/filmandmedia/,
+Queens University,History,83,"Kingston, ON",100,February 1,https://www.queensu.ca/history/,
+Queens University,Philosophy,83,"Kingston, ON",100,February 1,https://www.queensu.ca/philosophy/,
+Queens University,Religious Studies,83,"Kingston, ON",100,February 1,https://www.queensu.ca/religion/,
+Queens University,French,83,"Kingston, ON",100,February 1,https://www.queensu.ca/llcu/academics/academic-plans/languages-literatures-and-cultures,
+Queens University,Astronomy,83,"Kingston, ON",100,February 1,https://www.queensu.ca/physics/,
+Queens University,Astrophysics,83,"Kingston, ON",100,February 1,https://www.queensu.ca/physics/,
+Queens University,Biochemistry,93,"Kingston, ON",100,February 1,https://healthsci.queensu.ca/liscbchm/biochemistry,
+Queens University,Biology,83,"Kingston, ON",100,February 1,https://biology.queensu.ca/,
+Queens University,Biotechnology,91,"Kingston, ON",100,February 1,https://biology.queensu.ca/academics/undergraduate/degree-plans/biotechnology-ssp/,
+Queens University,Health Sciences,93,"Kingston, ON",100,February 1,https://bhsc.queensu.ca/,
+Queens University,Kinesiology,85,"Kingston, ON",100,February 1,https://skhs.queensu.ca/,
+Queens University,Nursing,93,"Kingston, ON",100,February 1,https://nursing.queensu.ca/,
+Queens University,Physics,83,"Kingston, ON",100,February 1,https://www.queensu.ca/physics/,
+Queens University,Psychology,88,"Kingston, ON",100,February 1,https://www.queensu.ca/psychology/,
+Queens University,Chemistry,83,"Kingston, ON",100,February 1,https://www.chem.queensu.ca/,
+Queens University,Life Sciences,93,"Kingston, ON",100,February 1,https://healthsci.queensu.ca/liscbchm/life_sciences,
+Queens University,Economics,83,"Kingston, ON",100,February 1,https://www.econ.queensu.ca/,
+Queens University,Gender Studies,83,"Kingston, ON",100,February 1,https://www.queensu.ca/gnds/,
+Queens University,Geography,83,"Kingston, ON",100,February 1,https://www.queensu.ca/geographyandplanning/,
+Queens University,Political Science,83,"Kingston, ON",100,February 1,https://www.queensu.ca/politics/,
+Queens University,Sociology,83,"Kingston, ON",100,February 1,https://www.queensu.ca/sociology/,

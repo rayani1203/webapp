@@ -1,0 +1,112 @@
+.aboutPageContainer {
+  padding-bottom: 10rem;
+  .aboutFirstSection {
+    h2 {
+      font-weight: 900;
+      font-size: 5rem;
+      line-height: 7.5rem;
+      color: var(--primaryColor);
+      margin: 0;
+    }
+    p {
+      font-weight: 400;
+      font-size: 2rem;
+      line-height: 4rem;
+      margin-block: 4.5rem;
+    }
+  }
+  .aboutSecondSection {
+    h2 {
+      font-weight: 900;
+      font-size: 5rem;
+      line-height: 7.5rem;
+      color: var(--primaryColor);
+      margin: 0;
+    }
+    .teamContainer {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 3rem;
+      margin-block: 4.9rem;
+      .teamCard {
+        background-color: var(--greyColor);
+        padding: 3rem;
+        border-radius: 3rem;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        .teamImg {
+          img {
+            width: 24.9rem;
+            aspect-ratio: 1;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 7px solid var(--fadedPrimaryColor);
+          }
+        }
+        .teamInfo {
+          display: flex;
+          flex-direction: column;
+          gap: 1.7rem;
+          h3 {
+            font-size: 2.5rem;
+            font-weight: 900;
+            color: var(--primaryColor);
+          }
+          p {
+            font-size: 2rem;
+            font-weight: 400;
+            color: var(--primaryColor);
+          }
+          .socialIcons {
+            display: flex;
+            justify-content: flex-start;
+            gap: 2rem;
+          }
+        }
+      }
+    }
+    .contactUs {
+      color: var(--secondaryColor);
+      font-size: 2rem;
+      a {
+        color: var(--primaryColor);
+        font-size: 2rem;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .aboutPageContainer {
+    .aboutFirstSection {
+      h2 {
+        line-height: unset;
+        font-size: 3rem;
+      }
+      p {
+        line-height: unset;
+        font-size: 1.8rem;
+        margin-block: 3.5rem;
+      }
+    }
+    .aboutSecondSection {
+      .teamContainer {
+        grid-template-columns: 1fr;
+      }
+    }
+  } 
+}
+
+@media only screen and (max-width: 550px) {
+  .aboutPageContainer {
+    .aboutSecondSection {
+      .teamContainer {
+        grid-template-columns: 1fr;
+        .teamCard {
+          grid-template-columns: 1fr;
+          gap: 2rem;
+        }
+      }
+    }
+  } 
+}
