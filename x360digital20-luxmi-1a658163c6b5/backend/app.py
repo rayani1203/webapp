@@ -1,7 +1,9 @@
 from flask import Flask, jsonify, render_template
+from flask_cors import CORS
 import csv
 
 app = Flask(__name__, static_url_path='',static_folder='../build', template_folder='../build')
+CORS(app, resources={r"/*": {"origins": "*"}})
 
 def read_csv_file(filename):
     data = []

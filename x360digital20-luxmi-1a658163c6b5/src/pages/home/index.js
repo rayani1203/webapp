@@ -10,6 +10,9 @@ import { HighSchoolAvgOptions, programOptions } from "../../data/utils";
 const Home = () => {
   const [generateList, setGenerateList] = useState(false);
   useEffect(() => {
+    fetch('http://localhost:3001/api/data', {
+      method: 'GET'
+    }).then((response) => response.json()).then(resJson => console.log(resJson));
     const hash = window.location.hash.slice(1); // Remove the '#' character from the hash
     if (hash) {
       const element = document.getElementById(hash);
